@@ -1,0 +1,2 @@
+# QuestPDF Example Project
+This project demonstrates how to use the QuestPDF library to generate PDF documents in a .NET application. It includes examples of basic PDF creation, styling, and incorporating assets such as images and fonts.

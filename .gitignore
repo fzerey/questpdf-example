@@ -1,0 +1,26 @@
+# .NET Core / Visual Studio Code
+.vscode/
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.userprefs
+*.vsix
+*.suo
+*.cache
+*.log
+*.vs/
+*.nupkg
+*.snk
+*.user
+*.bak
+*.tmp
+*.swp
+*.ipch/
+*.ncrunch*
+*.dotCover
+*.resharper*
+*.resharper.user
+_ReSharper*/
+*.sln.docstates
