@@ -1,5 +1,4 @@
 ﻿
-using System.Reflection;
 using QuestPDF.Fluent;
 using QuestPdfExample;
 var path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "wwwroot/Assets", "image.jpg");
