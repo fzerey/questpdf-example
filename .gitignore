@@ -24,3 +24,4 @@ obj/
 *.resharper.user
 _ReSharper*/
 *.sln.docstates
+*.pdf
